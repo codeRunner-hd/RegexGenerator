@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <ToolFxmlLoaderConfiguration title="codeTools" menuId="p-codeTools" menuParentId="moreToolsMenu" isMenu="true"/>
+    <ToolFxmlLoaderConfiguration>
+        <url>/com/xwintop/xJavaFxTool/fxmlView/codeTools/RegexGenerator.fxml</url>
+        <resourceBundleName>locale.RegexGenerator</resourceBundleName>
+        <className></className>
+        <title>Title</title>
+        <iconPath>/images/RegexGeneratorIcon.png</iconPath>
+        <isDefaultShow></isDefaultShow>
+        <menuId></menuId>
+        <menuParentId>p-codeTools</menuParentId>
+        <controllerType>Node</controllerType>
+    </ToolFxmlLoaderConfiguration>
+</root>
